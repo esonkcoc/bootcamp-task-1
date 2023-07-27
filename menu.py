@@ -1,0 +1,8 @@
+print("Place your order.")
+item1=input("What is your first choice menu item?")
+item2=input("What is your second choice menu item?")
+item3=input("What is your third choice menu item?")
+print("Thank you. Your three order items are:")
+print(item1)
+print(item2)
+print(item3)
